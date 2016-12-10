@@ -12,7 +12,7 @@ Run-control debug allows you to halt, step, resume, to set breakpoints, and to a
 * The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/) (see also a [work-in-progress version aiming for reduced implementation size](https://groups.google.com/a/groups.riscv.org/d/msg/debug/7u2qvqJsac4/7j_zyhfLAwAJ)).
 * The ['Direct' design](https://groups.google.com/a/groups.riscv.org/d/msg/debug/N2Qu17lALe4/4lzibYmvCQAJ). The primary author of this proposal has also started work on [a version that hopes to combine the best of both proposals](https://groups.google.com/a/groups.riscv.org/d/msg/debug/HYCuX8oP6Ew/NLTr1IWNBAAJ).
 
-The best starting point is probably read this [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
+The best starting point is to read this [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
 
 ## Meetings
 In addition to discussions on the mailing list, the group has recently started a series of meetings.
