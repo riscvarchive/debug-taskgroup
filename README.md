@@ -20,7 +20,7 @@ In addition to discussions on the mailing list, the group has recently started a
 ### Upcoming
 
   * Thursday 15th December, 2016. 8am PST. [Details](https://groups.google.com/a/groups.riscv.org/d/msg/debug/CE7UYAC4ytc/V0a0uNjiBAAJ).
-  
+
 ### Previous
 
   * 7th December, 2016. [Slides](https://docs.google.com/presentation/d/1zMAUUgEf1nydUpKVB5Tg9cdOJrl4M0pWdTgHoMEVD4Q/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/qoYAY36-5HQ/o6DSzDXlBAAJ).
