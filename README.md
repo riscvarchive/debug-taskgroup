@@ -12,7 +12,7 @@ Run-control debug allows you to halt, step, resume, to set breakpoints, and to a
 
 ### Proposed specifications
 
-* The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/) (see also a [work-in-progress version aiming for reduced implementation size](https://groups.google.com/a/groups.riscv.org/d/msg/debug/7u2qvqJsac4/7j_zyhfLAwAJ)).
+* The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/).
 * The ['Direct' design](https://groups.google.com/a/groups.riscv.org/d/msg/debug/N2Qu17lALe4/4lzibYmvCQAJ). The primary author of this proposal has also started work on [a version that hopes to combine the best of both proposals](https://groups.google.com/a/groups.riscv.org/d/msg/debug/HYCuX8oP6Ew/NLTr1IWNBAAJ).
 
 The best starting point is to read this [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
@@ -23,10 +23,8 @@ In addition to discussions on the mailing list, the group has recently started a
 
 ### Upcoming
 
-  * (Proposed) [Week of 19th December](https://groups.google.com/a/groups.riscv.org/d/msg/debug/nSoTc14zigs/JocKUZzPBQAJ)
-
 ### Previous
-
+  * 21st December, 2016. [Slides](https://docs.google.com/presentation/d/1Aikb1R2xposb9no0f3AQq-2FCC9zX9m2MyBBQBZcgDc/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/LqaZtesnqUg/QlM0i3HxDQAJ).
   * 15th December, 2016. [Slides](https://docs.google.com/presentation/d/1QnTYCawE_wbeU_F6c0F0QoUA6sKHf4fvcyrlK0Nz0KY/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/37AFJNRdkME/r_Z4bbO_BgAJ).
   * 7th December, 2016. [Slides](https://docs.google.com/presentation/d/1zMAUUgEf1nydUpKVB5Tg9cdOJrl4M0pWdTgHoMEVD4Q/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/qoYAY36-5HQ/o6DSzDXlBAAJ).
   * 30th November, 2016. [Slides](https://docs.google.com/presentation/d/1jOjG20-gwtcGybZg2Bu3StV6ljZZV9n2SQAEjKWQwDE/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ucaYL8pNfxo/Rv81fi6nCwAJ).
