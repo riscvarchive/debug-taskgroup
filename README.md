@@ -23,7 +23,10 @@ In addition to discussions on the mailing list, the group has recently started a
 
 ### Upcoming
 
+ * Thursday 5th January, 2017. 8am PST. [Details](https://groups.google.com/a/groups.riscv.org/d/msg/debug/38h48gy8TzM/WgkyJ7odEAAJ).
+
 ### Previous
+
   * 21st December, 2016. [Slides](https://docs.google.com/presentation/d/1Aikb1R2xposb9no0f3AQq-2FCC9zX9m2MyBBQBZcgDc/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/LqaZtesnqUg/QlM0i3HxDQAJ).
   * 15th December, 2016. [Slides](https://docs.google.com/presentation/d/1QnTYCawE_wbeU_F6c0F0QoUA6sKHf4fvcyrlK0Nz0KY/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/37AFJNRdkME/r_Z4bbO_BgAJ).
   * 7th December, 2016. [Slides](https://docs.google.com/presentation/d/1zMAUUgEf1nydUpKVB5Tg9cdOJrl4M0pWdTgHoMEVD4Q/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/qoYAY36-5HQ/o6DSzDXlBAAJ).
