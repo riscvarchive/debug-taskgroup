@@ -10,12 +10,12 @@ The best way to get involved in this effort is to join and participate in the [R
 
 Run-control debug allows you to halt, step, resume, to set breakpoints, and to access GPRs+CSRs+memory. There have been two main proposals for run-control, and much of the group's time has been spent understanding the differences and trade-offs between these two approaches, with the goal of producing a single unified specification.
 
-### Proposed specifications
+### Key documents and proposed specifications
 
 * The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/).
 * The ['Direct' design](https://groups.google.com/a/groups.riscv.org/d/msg/debug/N2Qu17lALe4/4lzibYmvCQAJ). The primary author of this proposal has also started work on [a version that hopes to combine the best of both proposals](https://groups.google.com/a/groups.riscv.org/d/msg/debug/HYCuX8oP6Ew/NLTr1IWNBAAJ).
-
-The best starting point is to read this [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
+* Tim Newsome's [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
+* Stefan Wallentowitz and Alex Bradbury produced a [presentation](https://goo.gl/9abgZa) aiming to summarise proposals so far, briefly survey what other architectures do for run-control debug, and propose a path towards a unified specification.
 
 ## Meetings
 
@@ -23,10 +23,11 @@ In addition to discussions on the mailing list, the group has recently started a
 
 ### Upcoming
 
- * Thursday 5th January, 2017. 8am PST. [Details](https://groups.google.com/a/groups.riscv.org/d/msg/debug/38h48gy8TzM/WgkyJ7odEAAJ).
+ * Wednesday 11th January, 2017. 8am PST. (Tentative).
 
 ### Previous
 
+  * 5th January, 2017. [Slides](https://docs.google.com/presentation/d/1GlQNnZmCJ0sVICde6IOnv3bBvPYkHsU0AiAElGFyxNw/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/r4jt2VmWXpI/7ktkIF46EgAJ).
   * 21st December, 2016. [Slides](https://docs.google.com/presentation/d/1Aikb1R2xposb9no0f3AQq-2FCC9zX9m2MyBBQBZcgDc/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/LqaZtesnqUg/QlM0i3HxDQAJ).
   * 15th December, 2016. [Slides](https://docs.google.com/presentation/d/1QnTYCawE_wbeU_F6c0F0QoUA6sKHf4fvcyrlK0Nz0KY/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/37AFJNRdkME/r_Z4bbO_BgAJ).
   * 7th December, 2016. [Slides](https://docs.google.com/presentation/d/1zMAUUgEf1nydUpKVB5Tg9cdOJrl4M0pWdTgHoMEVD4Q/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/qoYAY36-5HQ/o6DSzDXlBAAJ).
