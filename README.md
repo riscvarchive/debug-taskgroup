@@ -15,7 +15,7 @@ Run-control debug allows you to halt, step, resume, to set breakpoints, and to a
 * The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/).
 * The ['Direct' design](https://groups.google.com/a/groups.riscv.org/d/msg/debug/N2Qu17lALe4/4lzibYmvCQAJ). The primary author of this proposal has also started work on [a version that hopes to combine the best of both proposals](https://groups.google.com/a/groups.riscv.org/d/msg/debug/HYCuX8oP6Ew/NLTr1IWNBAAJ).
 * Tim Newsome's [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
-* Stefan Wallentowitz and Alex Bradbury produced a [presentation](https://goo.gl/9abgZa) aiming to summarise proposals so far, briefly survey what other architectures do for run-control debug, and propose a path towards a unified specification.
+* Stefan Wallentowitz and Alex Bradbury produced a [presentation](https://goo.gl/9abgZa) aiming to summarise proposals so far, briefly survey what other architectures do for run-control debug, and propose a path towards a unified specification. They went on to give a more detailed [proposal](https://goo.gl/Uy5V2k) for an approach with a base memory map, with optional instruction feeding.
 
 ## Meetings
 
@@ -23,10 +23,11 @@ In addition to discussions on the mailing list, the group has recently started a
 
 ### Upcoming
 
- * Wednesday 11th January, 2017. 8am PST. (Tentative).
+ * Wednesday 18th January, 2017. 8am PST.
 
 ### Previous
 
+  * 11th January, 2016. [Slides](https://docs.google.com/presentation/d/1p2ny3cb2fjTeADlgy1Q4fhlY5pCmsO4LmLvNZ6ha8-A/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/oFfmIQgkb_k/xq6faXkSFAAJ).
   * 5th January, 2017. [Slides](https://docs.google.com/presentation/d/1GlQNnZmCJ0sVICde6IOnv3bBvPYkHsU0AiAElGFyxNw/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/r4jt2VmWXpI/7ktkIF46EgAJ).
   * 21st December, 2016. [Slides](https://docs.google.com/presentation/d/1Aikb1R2xposb9no0f3AQq-2FCC9zX9m2MyBBQBZcgDc/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/LqaZtesnqUg/QlM0i3HxDQAJ).
   * 15th December, 2016. [Slides](https://docs.google.com/presentation/d/1QnTYCawE_wbeU_F6c0F0QoUA6sKHf4fvcyrlK0Nz0KY/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/37AFJNRdkME/r_Z4bbO_BgAJ).
