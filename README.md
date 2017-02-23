@@ -24,10 +24,12 @@ In addition to discussions on the mailing list, the group has recently started a
 
 ### Upcoming
 
- * Wednesday 15th February, 2017. 8am PST.
+ * Wednesday 1st March, 2017. 8am PST.
 
 ### Previous
 
+  * 22nd February, 2017. [Slides](https://docs.google.com/presentation/d/1LKeLg7Lw-O-yd6-K0Q0NauUyyK-fee7aRHeY2uh-neU/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ECH84s1E4gM/OKCPxVRwAwAJ).
+  * 15th February, 2017. [Slides](https://docs.google.com/presentation/d/15PabK0Lj6c1ASlhs88yAd598BN3NhCHRnzBbQZEr4Gs/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ZH5Z0YSDvtg/xgjRyMZNAQAJ).
   * 8th Februrary, 2017. [Slides](https://docs.google.com/presentation/d/15PabK0Lj6c1ASlhs88yAd598BN3NhCHRnzBbQZEr4Gs/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/bMbG1KESEnk/khvNcHe0DwAJ).
   * 1st February, 2017. [Slides](https://docs.google.com/presentation/d/1npb-thIWwbQP9IAiRNDmzmMoWOBgm5Tyo283zlDXQkg/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/KU22vtt_pWI/QuBoiXWMDQAJ).
   * 25th January, 2017. [Slides](https://docs.google.com/presentation/d/1TApV32HsTzilEqZO6FfWQcCo-zHJxl3IZlR0CJ47Jec/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/FgOOnKQW8TY/jnhOLJNqCwAJ).
