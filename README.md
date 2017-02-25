@@ -10,13 +10,8 @@ The best way to get involved in this effort is to join and participate in the [R
 
 Run-control debug allows you to halt, step, resume, to set breakpoints, and to access GPRs+CSRs+memory. There have been two main proposals for run-control, and much of the group's time has been spent understanding the differences and trade-offs between these two approaches, with the goal of producing a single unified specification.
 
-### Key documents and proposed specifications
-
-* The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/).
-* The ['Direct' design](https://groups.google.com/a/groups.riscv.org/d/msg/debug/N2Qu17lALe4/4lzibYmvCQAJ). The primary author of this proposal has also started work on [a version that hopes to combine the best of both proposals](https://groups.google.com/a/groups.riscv.org/d/msg/debug/HYCuX8oP6Ew/NLTr1IWNBAAJ).
-* Tim Newsome's [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
-* Stefan Wallentowitz and Alex Bradbury produced a [presentation](https://goo.gl/9abgZa) aiming to summarise proposals so far, briefly survey what other architectures do for run-control debug, and propose a path towards a unified specification. They went on to give a more detailed [proposal](https://goo.gl/Uy5V2k) for an approach with a base memory map, with optional instruction feeding.
-* The options for interfaces were [put to a vote](https://sifive.github.io/debug-mechanism-comparison/poll), which [resulted](https://sifive.github.io/debug-mechanism-comparison/poll-results/results.html) in the decision to [pursue a spec with a unified abstract interface](https://groups.google.com/a/groups.riscv.org/d/msg/debug/FDmZUk7YCNw/e9e5pN3mCQAJ). Once the costs of translating from the abstract interface to instruction feeding are better understood, the group may agree that providing two optional interfaces is preferable.
+### Working draft
+The debug specification is developed in the [riscv-debug-spec](https://github.com/sifive/riscv-debug-spec) Github repository. PDF versions are periodically generated and published [here](https://dev.sifive.com/documentation/risc-v-external-debug-support/).
 
 ## Meetings
 
@@ -40,3 +35,12 @@ In addition to discussions on the mailing list, the group has recently started a
   * 15th December, 2016. [Slides](https://docs.google.com/presentation/d/1QnTYCawE_wbeU_F6c0F0QoUA6sKHf4fvcyrlK0Nz0KY/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/37AFJNRdkME/r_Z4bbO_BgAJ).
   * 7th December, 2016. [Slides](https://docs.google.com/presentation/d/1zMAUUgEf1nydUpKVB5Tg9cdOJrl4M0pWdTgHoMEVD4Q/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/qoYAY36-5HQ/o6DSzDXlBAAJ).
   * 30th November, 2016. [Slides](https://docs.google.com/presentation/d/1jOjG20-gwtcGybZg2Bu3StV6ljZZV9n2SQAEjKWQwDE/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ucaYL8pNfxo/Rv81fi6nCwAJ).
+  
+### Historical specification development
+Previously, the task group went through detailed discussion on a number of different approaches. The key documents produced in that process are linked below.
+
+* The ['Instruction' design](https://dev.sifive.com/documentation/risc-v-external-debug-support/).
+* The ['Direct' design](https://groups.google.com/a/groups.riscv.org/d/msg/debug/N2Qu17lALe4/4lzibYmvCQAJ). The primary author of this proposal has also started work on [a version that hopes to combine the best of both proposals](https://groups.google.com/a/groups.riscv.org/d/msg/debug/HYCuX8oP6Ew/NLTr1IWNBAAJ).
+* Tim Newsome's [comparison between the two approaches](https://sifive.github.io/debug-mechanism-comparison/).
+* Stefan Wallentowitz and Alex Bradbury produced a [presentation](https://goo.gl/9abgZa) aiming to summarise proposals so far, briefly survey what other architectures do for run-control debug, and propose a path towards a unified specification. They went on to give a more detailed [proposal](https://goo.gl/Uy5V2k) for an approach with a base memory map, with optional instruction feeding.
+* The options for interfaces were [put to a vote](https://sifive.github.io/debug-mechanism-comparison/poll), which [resulted](https://sifive.github.io/debug-mechanism-comparison/poll-results/results.html) in the decision to [pursue a spec with a unified abstract interface](https://groups.google.com/a/groups.riscv.org/d/msg/debug/FDmZUk7YCNw/e9e5pN3mCQAJ). Once the costs of translating from the abstract interface to instruction feeding are better understood, the group may agree that providing two optional interfaces is preferable.
