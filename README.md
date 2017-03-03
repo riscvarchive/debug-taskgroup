@@ -21,7 +21,7 @@ In addition to discussions on the mailing list, the group has recently started a
   * Wednesday 7th March, 2017. 8am PST.
 
 ### Previous
-  * Wednesday 1st March, 2017. [Slides](https://docs.google.com/presentation/d/1N7_rD8yA6hb2d5HfxIgtc3JtcBG93U3mvQ3SGaTzoH4/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/y2iXico1Jq8/sZ5nOrt2BAAJ)
+  * 1st March, 2017. [Slides](https://docs.google.com/presentation/d/1N7_rD8yA6hb2d5HfxIgtc3JtcBG93U3mvQ3SGaTzoH4/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/y2iXico1Jq8/sZ5nOrt2BAAJ).
   * 22nd February, 2017. [Slides](https://docs.google.com/presentation/d/1LKeLg7Lw-O-yd6-K0Q0NauUyyK-fee7aRHeY2uh-neU/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ECH84s1E4gM/OKCPxVRwAwAJ).
   * 15th February, 2017. [Slides](https://docs.google.com/presentation/d/15PabK0Lj6c1ASlhs88yAd598BN3NhCHRnzBbQZEr4Gs/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ZH5Z0YSDvtg/xgjRyMZNAQAJ).
   * 8th Februrary, 2017. [Slides](https://docs.google.com/presentation/d/15PabK0Lj6c1ASlhs88yAd598BN3NhCHRnzBbQZEr4Gs/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/bMbG1KESEnk/khvNcHe0DwAJ).
