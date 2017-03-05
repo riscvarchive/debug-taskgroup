@@ -2,7 +2,7 @@
 
 The RISC-V Debug Task Group was established to propose specifications for debug on RISC-V implementations. The scope of the group includes run-control and trace debug, but the current focus is to agree upon a standard for run-control debug.
 
-The group is chaired by Tim Newsome (SiFive Inc).
+The group is currently chaired by Megan Wachs (SiFive Inc).
 
 The best way to get involved in this effort is to join and participate in the [RISC-V debug mailing list](https://groups.google.com/a/groups.riscv.org/forum/#!forum/debug).
 
@@ -18,11 +18,10 @@ The debug specification is developed in the [riscv-debug-spec](https://github.co
 In addition to discussions on the mailing list, the group has recently started a series of meetings.
 
 ### Upcoming
-
- * Wednesday 1st March, 2017. 8am PST.
+  * Wednesday 7th March, 2017. 8am PST.
 
 ### Previous
-
+  * 1st March, 2017. [Slides](https://docs.google.com/presentation/d/1N7_rD8yA6hb2d5HfxIgtc3JtcBG93U3mvQ3SGaTzoH4/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/y2iXico1Jq8/sZ5nOrt2BAAJ).
   * 22nd February, 2017. [Slides](https://docs.google.com/presentation/d/1LKeLg7Lw-O-yd6-K0Q0NauUyyK-fee7aRHeY2uh-neU/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ECH84s1E4gM/OKCPxVRwAwAJ).
   * 15th February, 2017. [Slides](https://docs.google.com/presentation/d/15PabK0Lj6c1ASlhs88yAd598BN3NhCHRnzBbQZEr4Gs/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ZH5Z0YSDvtg/xgjRyMZNAQAJ).
   * 8th Februrary, 2017. [Slides](https://docs.google.com/presentation/d/15PabK0Lj6c1ASlhs88yAd598BN3NhCHRnzBbQZEr4Gs/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/bMbG1KESEnk/khvNcHe0DwAJ).
