@@ -18,7 +18,7 @@ The debug specification is developed in the [riscv-debug-spec](https://github.co
 In addition to discussions on the mailing list, the group has recently started a series of meetings.
 
 ### Upcoming
-  * Wednesday 7th March, 2017. 8am PST.
+  * Wednesday 8th March, 2017. 8am PST.
 
 ### Previous
   * 1st March, 2017. [Slides](https://docs.google.com/presentation/d/1N7_rD8yA6hb2d5HfxIgtc3JtcBG93U3mvQ3SGaTzoH4/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/y2iXico1Jq8/sZ5nOrt2BAAJ).
