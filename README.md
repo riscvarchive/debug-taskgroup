@@ -18,9 +18,10 @@ The debug specification is developed in the [riscv-debug-spec](https://github.co
 In addition to discussions on the mailing list, the group has recently started a series of meetings.
 
 ### Upcoming
-  * Wednesday 15th March, 2017. 8am PST.
+  * Wednesday 22nd March, 2017. 8am PDT.
 
 ### Previous
+  * 15th March, 2017. [Slides](https://docs.google.com/presentation/d/1VsKJoSRIClrip-7HonvrBY9N0h2yoTFthKMrZiGbi0E/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/hQk8h3mqlhg/RNXp4Ml1BAAJ).
   * 8th March, 2017. [Slides](https://docs.google.com/presentation/d/1y6qRwca3AvPWlMu_YF8LwfsfhOay5zskaJtYdSXs0kA/edit#slide=id.p). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/YQoGrEP7Qmg/77zYRl28AQAJ).
   * 1st March, 2017. [Slides](https://docs.google.com/presentation/d/1N7_rD8yA6hb2d5HfxIgtc3JtcBG93U3mvQ3SGaTzoH4/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/y2iXico1Jq8/sZ5nOrt2BAAJ).
   * 22nd February, 2017. [Slides](https://docs.google.com/presentation/d/1LKeLg7Lw-O-yd6-K0Q0NauUyyK-fee7aRHeY2uh-neU/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/ECH84s1E4gM/OKCPxVRwAwAJ).
