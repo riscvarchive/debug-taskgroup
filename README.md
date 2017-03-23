@@ -4,7 +4,7 @@ The RISC-V Debug Task Group was established to propose specifications for debug 
 
 The group is currently chaired by Megan Wachs (SiFive Inc).
 
-The best way to get involved in this effort is to join and participate in the [RISC-V debug mailing list](https://groups.google.com/a/groups.riscv.org/forum/#!forum/debug).
+As of the 22nd March 2017, [future notes, slides, and discussions will be moved to the RISC-V members workspace](https://groups.google.com/a/groups.riscv.org/d/msg/debug/jP9qS-ApKmo/79DpqIiVBgAJ).
 
 ## Run-control debug
 
@@ -15,12 +15,11 @@ The debug specification is developed in the [riscv-debug-spec](https://github.co
 
 ## Meetings
 
-In addition to discussions on the mailing list, the group has recently started a series of meetings.
+In addition to discussions on the mailing list, the group has held a series of meetings. As of the 22nd March 2017, [future notes, slides, and discussions will be moved to the RISC-V members workspace](https://groups.google.com/a/groups.riscv.org/d/msg/debug/jP9qS-ApKmo/79DpqIiVBgAJ).
 
-### Upcoming
-  * Wednesday 22nd March, 2017. 8am PDT.
 
 ### Previous
+  * 22nd March, 2017. Slides (not available). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/jP9qS-ApKmo/OVMB6V6UBgAJ).
   * 15th March, 2017. [Slides](https://docs.google.com/presentation/d/1VsKJoSRIClrip-7HonvrBY9N0h2yoTFthKMrZiGbi0E/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/hQk8h3mqlhg/RNXp4Ml1BAAJ).
   * 8th March, 2017. [Slides](https://docs.google.com/presentation/d/1y6qRwca3AvPWlMu_YF8LwfsfhOay5zskaJtYdSXs0kA/edit#slide=id.p). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/YQoGrEP7Qmg/77zYRl28AQAJ).
   * 1st March, 2017. [Slides](https://docs.google.com/presentation/d/1N7_rD8yA6hb2d5HfxIgtc3JtcBG93U3mvQ3SGaTzoH4/edit?usp=sharing). [Notes](https://groups.google.com/a/groups.riscv.org/d/msg/debug/y2iXico1Jq8/sZ5nOrt2BAAJ).
